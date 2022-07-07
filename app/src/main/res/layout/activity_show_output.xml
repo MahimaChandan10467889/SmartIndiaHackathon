@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Show_output">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/play_ar_core"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="-146dp"
+        android:text="Click to play 3D simulation."
+        android:textAlignment="center"
+        android:textSize="20sp"/>
+
+    <ImageView
+        android:id="@+id/play_ar_core"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="169dp"
+        android:src="@drawable/icon_play" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="19dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/save_as_pdf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="5dp"
+            android:layout_marginBottom="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/rounded_border_blue"
+            android:text="save as pdf"
+            android:textColor="#fff" />
+
+        <Button
+            android:id="@+id/goto_navigation_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/rounded_border_blue"
+            android:text="Close"
+            android:textColor="#fff" />
+    </LinearLayout>
+</RelativeLayout>

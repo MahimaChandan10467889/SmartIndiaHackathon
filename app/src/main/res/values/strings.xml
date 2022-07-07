@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Bridgesign</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Bridgesign</string>
+    <string name="slide_1_desc">Designing a bridge? Hello there</string>
+
+    <string name="slide_2_title">Trouble with units?</string>
+    <string name="slide_2_desc">We provide unit conversion too</string>
+
+    <string name="slide_3_title">Get output in PDF</string>
+    <string name="slide_3_desc">We provide output in pdf format. Easy to read, easy to design!</string>
+
+    <string name="slide_4_title">Proud of our mother tongue?</string>
+    <string name="slide_4_desc">We support hindi too.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_navigation_drawer">Bridgesign</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="codecrew6">CodeCrew6</string>
+    <string name="codecrew_6">CODECREW 6</string>
+    <string name="subhranil_bala">Subhranil Bala</string>
+    <string name="_9004171356">9004171356</string>
+    <string name="vedant_patil">Vedant Patil</string>
+    <string name="_9605486476">9605486476</string>
+    <string name="nikhil_karve">Nikhil Karve</string>
+    <string name="_7057555222">7057555222</string>
+    <string name="mayur_aitavadekar">Mayur Aitavadekar</string>
+    <string name="_91_8975399519">+91 8975399519</string>
+    <string name="_91_08208809324">+91 08208809324</string>
+    <string name="mahima_chandan">Mahima Chandan</string>
+    <string name="_8149560514">8149560514</string>
+    <string name="prathamesh_wali">Prathamesh Wali</string>
+
+    <string name="question1"> â€¢ Is my phone supported?</string>
+    <string name="answer1"> Our mobile application supports Android version 5.0 and above.</string>
+    <string name="question2"> â€¢ Is the mobile application secure?</string>
+    <string name="answer2"> Yes! All critical information in encrypted and no personal info is stored on your mobile device.  However, mobile devices do offer you the ability to save the output in pdf format</string>
+    <string name="question3"> â€¢ Can I share/upload the pdf?</string>
+    <string name="answer3"> No. But, You can download the pdf for your future reference</string>
+    <string name="question4"> â€¢ How does the app work?</string>
+    <string name="answer4"> User here provides in all the values in the input page and on a click he/she gets the calculated factors along with the design . Also, with an in-built feature of this app user is allowed to download the output in a pdf format</string>
+
+
+</resources>
